@@ -13,8 +13,7 @@ Project ini dibuat sebagai **Take Home Test Fullstack Developer** dengan fokus p
 ---
 
 ## Project Structure
-.
-backend
+.backend
 - config
 - handler
 - model
@@ -26,7 +25,7 @@ backend
 - go.sum
 - .env.example
 
-frontend
+.frontend
 - pages
 - lib
 - public
@@ -40,13 +39,10 @@ frontend
 ---
 
 ## Setup Database
-Buat database PostgreSQL:
 ```sql
 CREATE DATABASE THTINDOBAT;
 
 Run Backend
-bash
-Salin kode
 cd backend
 cp .env.example .env
 # sesuaikan DB_PASSWORD dengan environment lokal
