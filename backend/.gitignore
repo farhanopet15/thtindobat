@@ -1,0 +1,19 @@
+# ===== ENV =====
+.env
+
+# ===== Go =====
+bin/
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+*.test
+*.out
+
+# ===== Logs =====
+*.log
+
+# ===== OS =====
+.DS_Store
+Thumbs.db
