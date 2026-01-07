@@ -14,28 +14,28 @@ Project ini dibuat sebagai **Take Home Test Fullstack Developer** dengan fokus p
 
 ## Project Structure
 .
-├── backend
-│ ├── config
-│ ├── handler
-│ ├── model
-│ ├── repository
-│ ├── routes
-│ ├── service
-│ ├── main.go
-│ ├── go.mod
-│ ├── go.sum
-│ └── .env.example
-│
-├── frontend
-│ ├── pages
-│ ├── lib
-│ ├── public
-│ ├── styles
-│ ├── package.json
-│ ├── tsconfig.json
-│ └── .env.local.example
-│
-└── README.md
+backend
+- config
+- handler
+- model
+- repository
+- routes
+- service
+- main.go
+- go.mod
+- go.sum
+- .env.example
+
+frontend
+- pages
+- lib
+- public
+- styles
+- package.json
+- tsconfig.json
+- .env.local.example
+
+- README.md
 
 ---
 
